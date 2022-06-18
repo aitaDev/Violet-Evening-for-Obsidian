@@ -27,7 +27,7 @@
 	--text-highlight-bg: #662ca5;
 	--text-highlight-bg-active: rgba(255, 128, 0, 0.4);
 	--text-selection: #8f2bd2;
-	--text-on-accent: #fff;
+	--text-on-accent: #202020;
 	--interactive-normal: #2a2a2a;
 	--interactive-hover: #303030;
 	--interactive-accent: #ddaa03;
@@ -125,6 +125,10 @@ blockquote p {
 /* ---NAV BAR--- */
 
 /* top buttons */
+
+.titlebar-inner {
+	color: white;
+}
 
 .view-action:hover,
 .view-action.is-active {
