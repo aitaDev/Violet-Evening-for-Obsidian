@@ -16,7 +16,7 @@
 	--background-modifier-error-rgb: 61, 0, 0;
 	--background-modifier-error-hover: #ff0000;
 	--background-modifier-cover: #171532;
-	--text-accent: #fff;
+	--text-accent: #bd6af5;
 	--text-accent-hover: #fdc307;
 	--text-normal: #fff;
 	--text-muted: #c5b5ff;
@@ -27,7 +27,7 @@
 	--text-highlight-bg: #662ca5;
 	--text-highlight-bg-active: rgba(255, 128, 0, 0.4);
 	--text-selection: #8f2bd2;
-	--text-on-accent: #202020;
+	--text-on-accent: #fff;
 	--interactive-normal: #2a2a2a;
 	--interactive-hover: #303030;
 	--interactive-accent: #ddaa03;
